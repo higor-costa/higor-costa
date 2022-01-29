@@ -1,6 +1,7 @@
 ### Oi! Eu sou Higor Costa 👋
 
-- 🌱 Estudando JavaScript
+- 💼 À procura de um estágio de desenvolvedor front-end
+- 📚 Estudando JavaScript
 - 😄 Pronomes: ele/dele
 
 <div align="center">
