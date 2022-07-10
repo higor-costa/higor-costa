@@ -1,7 +1,7 @@
 ### Oi! Eu sou Higor Costa 👋
 
-- 💼 À procura de um estágio de desenvolvedor front-end
-- 📚 Estudando JavaScript
+- 💼 À procura de uma oportunidade como desenvolvedor web front-end jr
+- 📚 Estudando JavaScript e Bootstrap
 - 😄 Pronomes: ele/dele
 
 <div align="center">
@@ -19,7 +19,6 @@
   ##
   
   <div> 
-  <a href="https://instagram.com/ooo_higuu" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "higorcosta972@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/higor-costa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
