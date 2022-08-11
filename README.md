@@ -5,7 +5,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higor-costa&layout=compact&hide_border=true&title_color=f40202&text_color=fff&bg_color=0d1117"/>
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=higor-costa&theme=gotham&hide_border=true&area=true&color=fff&line=f40202&point=fff&area_color=f40202)
+![Contribution](https://activity-graph.herokuapp.com/graph?username=higor-costa&theme=gotham&hide_border=true&area=true&color=fff&line=f40202&point=fff&area_color=f40202&custom_title=Meu%20gráfico%20de%20Contribuição)
   
 
 ### Habilidades:
