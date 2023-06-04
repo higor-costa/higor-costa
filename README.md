@@ -5,10 +5,7 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=higor-costa&show_icons=true&count_private=true&hide_border=true&title_color=f40202&icon_color=f40202&text_color=c9d1d9&bg_color=0d1117" alt="Higor Costa github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higor-costa&layout=compact&hide_border=true&title_color=f40202&text_color=fff&bg_color=0d1117"/>
-</div>
-
-![Contribution](https://github-readme-activity-graph.cyclic.app/graph?username=higor-costa&theme=gotham&color=fff&line=f40202&point=fff&area_color=f40202&area=true&hide_border=true&custom_title=Meu%20gráfico%20de%20Contribuição)
-  
+</div>  
 
 ### Habilidades:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp; 
@@ -22,7 +19,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
   
 ### Estudando no momento:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=React&labelColor=0D1117&textColor=0D1117)&nbsp;
+![SASS](https://img.shields.io/badge/SASS-0D1117?style=for-the-badge&logo=SASS&labelColor=0D1117&textColor=0D1117)&nbsp;
   
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f40202&height=180&section=footer"/>
