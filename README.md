@@ -8,19 +8,21 @@
 </div>  
 
 ### Habilidades:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp; 
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&labelColor=black)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&labelColor=black&logoColor=blue)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&labelColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&labelColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&labelColor=black)
 
 ### Ferramentas:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&labelColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&labelColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&labelColor=black)
   
 ### Estudando no momento:
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=React&labelColor=0D1117&textColor=0D1117)&nbsp;
-![SASS](https://img.shields.io/badge/SASS-0D1117?style=for-the-badge&logo=SASS&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Node.js Version](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&labelColor=black&color=339933)&nbsp;
+![SCSS](https://img.shields.io/badge/SCSS-hotpink?style=for-the-badge&logo=sass&labelColor=black)
+
   
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f40202&height=180&section=footer"/>
